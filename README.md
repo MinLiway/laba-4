@@ -30,4 +30,4 @@
 Готово!
 проверить работу вы можете на странице http://192.168.11.113
 
-<a href="https://ibb.co/SVbkcLZ"><img
+<a href="https://ibb.co/n174jzz"><img src="https://i.ibb.co/NN9fKZZ/web1.jpg" alt="web1" border="0"></a>
